@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: hello
+name: mobicom2017-halo08-tweihello
+source:
+  type: git
+  url: https://github.com/twei7/paradrop-helloworld
+type: light
+use: node
+version: 1
